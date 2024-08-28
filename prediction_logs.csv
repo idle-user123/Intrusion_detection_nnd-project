@@ -1,0 +1,6 @@
+vehicle_type,lightgbm_prediction,xgboost_prediction,catboost_prediction,lccde_prediction
+3,3,3,3,3
+0,0,0,3,0
+1,1,1,1,1
+6,6,6,6,6
+3,3,3,3,3
